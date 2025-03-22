@@ -5,15 +5,15 @@
 
 ![MorpMamba](https://github.com/user-attachments/assets/a82fb718-4264-4700-af58-45b99cb06bd9)
 
-@misc{ahmad2024spatialspectralmorphologicalmambahyperspectral,
-      title={Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification}, 
-      author={Muhammad Ahmad and Muhammad Hassaan Farooq Butt and Muhammad Usama and Adil Mehmood Khan and Manuel Mazzara and Salvatore Distefano and Hamad Ahmed Altuwaijri and Swalpa Kumar Roy and Jocelyn Chanussot and Danfeng Hong},
-      year={2024},
-      eprint={2408.01372},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2408.01372}, 
-}
+@article{AHMAD2025129995,
+title = {Spatial-spectral morphological mamba for hyperspectral image classification},
+journal = {Neurocomputing},
+pages = {129995},
+year = {2025},
+issn = {0925-2312},
+doi = {https://doi.org/10.1016/j.neucom.2025.129995},
+url = {https://www.sciencedirect.com/science/article/pii/S0925231225006678},
+author = {Muhammad Ahmad and Muhammad Hassaan Farooq Butt and Adil Mehmood Khan and Manuel Mazzara and Salvatore Distefano and Muhammad Usama and Swalpa Kumar Roy and Jocelyn Chanussot and Danfeng Hong}}
 
 # Hyperspectral datasets
 
