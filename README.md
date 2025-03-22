@@ -1,6 +1,6 @@
 # MorpMamba
 
-# This demo is associated with [Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification (ArXiv)](https://arxiv.org/abs/2404.14945), and submitted for possible publication.
+# This demo is associated with [Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification](https://www.sciencedirect.com/science/article/pii/S0925231225006678) accepted and published in Neurocomputing
 
 
 ![MorpMamba](https://github.com/user-attachments/assets/a82fb718-4264-4700-af58-45b99cb06bd9)
